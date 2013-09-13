@@ -1,0 +1,10 @@
+bintime is (so far) a program that will output the time in binary. To display
+the time in hexadecimal, see hextime.
+
+Usage: bintime
+
+Future ideas:
+ - Add option to display time continuously
+ - Optimize for display above current prompt.
+
+Bugs reporst can be sent to joh07467@gmail.com
